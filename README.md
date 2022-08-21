@@ -20,7 +20,7 @@ This is how I installed PyBioMed with RDKit on my **Windows**. If you use other 
         - Extract PyBioMed file "PyBioMed-master.zip" to here.
         - cd to this location in terminal and type "**python setup.py install**".
 
-- Adjustment in
+- Adjustment
     - The original kappa package is not working due to rdkit update. New update from contributor from GitHub.
     Related links:
         - https://github.com/gadsbyfly/PyBioMed/pull/16
