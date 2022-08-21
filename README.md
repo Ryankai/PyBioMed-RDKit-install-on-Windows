@@ -1,11 +1,10 @@
 ## Introduction
-This is how I installed PyBioMed on my Windows. As it is no longer maintained, some steps is required for normal usage.
+This is how I installed PyBioMed with RDKit on my **Windows**. If you use other operation system this won't work for you!
 
 ## Installation
 - Install [Python](https://www.python.org/downloads/release/python-3913).
     - Packages are installed by **pip**. Check commands on relative websites if you use other package managers.
     - Download and run Windows installer (select **"install pip"**).
-    - Check Python is installed using ***python*** command. ![123](img/1.PNG)
  
 - Install necessary packages 
     - Install Numpy with command: **"pip install numpy"**.
