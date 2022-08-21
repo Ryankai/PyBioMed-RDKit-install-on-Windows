@@ -1,6 +1,6 @@
 ## Introduction
 This is how I installed PyBioMed on my Windows. As it is no longer maintained, some steps is required for normal usage.
-### Installation
+## Installation
 - Install [Python](https://www.python.org/downloads/release/python-3913).
     - Packages are installed by **pip**. Check commands on relative websites if you use other package managers.
     - Download and run Windows installer (select **"install pip"**).
